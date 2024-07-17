@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OMiGaS")(type "KiCad")(uri "${KIPRJMOD}/OMiGaS_Rev_3.pretty")(options "")(descr ""))
+)

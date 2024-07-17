@@ -1,0 +1,238 @@
+(footprint "35W"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "35W")
+	(tags "Variable Resistor")
+	(property "Reference" "VR**"
+		(at 0 -3 0)
+		(layer "F.SilkS")
+		(uuid "c4ea6786-7770-4f10-b496-248412c93c3e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "35WR100KLFTR"
+		(at -0.163 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49ba96d8-c09d-4148-bee8-914a6c885021")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "939f9776-b1b3-4566-8917-9720f80ee1b4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0b24405f-7018-4ec4-9c4a-9193865d7515")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2261608f-2800-4709-a0b6-36cf8e7d6d23")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.5 -0.2)
+		(end -1.5 0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1c479883-9994-4aff-8ced-4df8cfd9d3c2")
+	)
+	(fp_line
+		(start -0.8 -1.5)
+		(end 1.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c137eec6-8c09-4731-a813-87c78327daf2")
+	)
+	(fp_line
+		(start -0.8 1.5)
+		(end 1.5 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27485c0e-6f01-44dd-8132-6ea393a85ae1")
+	)
+	(fp_line
+		(start 1.5 -1.5)
+		(end 1.5 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64615cce-511f-4283-b627-48da4c2f273c")
+	)
+	(fp_line
+		(start 1.5 1.5)
+		(end 1.5 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "680a4378-0656-4f64-9cf4-1978fa0121db")
+	)
+	(fp_line
+		(start -3.2 -2.1)
+		(end 2.875 -2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8e5632ea-38ac-4aae-9601-04651336b5f8")
+	)
+	(fp_line
+		(start -3.2 2.1)
+		(end -3.2 -2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "30737aa9-d5f5-4722-9773-7d0e8330e85a")
+	)
+	(fp_line
+		(start 2.875 -2.1)
+		(end 2.875 2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b90fbdcc-cd30-4e92-87f9-08ba87aed4a4")
+	)
+	(fp_line
+		(start 2.875 2.1)
+		(end -3.2 2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4f9b3b96-5b53-46aa-a679-1b39f027fac5")
+	)
+	(fp_line
+		(start -1.5 -1.5)
+		(end 1.5 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9cbdf76a-9fc2-41dd-b878-b775b69dbe52")
+	)
+	(fp_line
+		(start -1.5 1.5)
+		(end -1.5 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c9477010-a316-4575-a57b-b1011afca89e")
+	)
+	(fp_line
+		(start 1.5 -1.5)
+		(end 1.5 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6e590a03-cbe4-49f4-814f-5fdf5b7814c0")
+	)
+	(fp_line
+		(start 1.5 1.5)
+		(end -1.5 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cb1cadaf-c816-4d85-a60e-e601dc2c8345")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.163 0 0)
+		(layer "F.Fab")
+		(uuid "19012070-5277-41dc-a5a5-dc3af249a3f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.625 -1 90)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d2c58bf0-90a7-4062-b35f-c85566eb05ed")
+	)
+	(pad "2" smd rect
+		(at 1.625 0)
+		(size 1.5 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c3f6b9ee-15aa-4e6f-861e-fe973344b3d9")
+	)
+	(pad "3" smd rect
+		(at -1.625 1 90)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "85347218-ca02-44b6-8341-43c39d419da1")
+	)
+	(model "${KIPRJMOD}/OMiGaS_3D/35W.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+)

@@ -1,0 +1,232 @@
+(footprint "smb-vertical"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "142140-1")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at 0 -4.445 0)
+		(layer "F.SilkS")
+		(uuid "cf7ab4a0-1c78-4c66-88d8-01de15c72ca4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "smb-142140"
+		(at 0 3.692 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4aa356ad-eff0-4727-a5d4-a821c9f6a8e0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b96771f-af5f-4654-800c-cb20e1d6986a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd30d528-dff3-4428-aaf9-a6030a23d8a5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f67bf46-cd23-41b9-be00-5975773b46ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.2 -1.5)
+		(end -3.2 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c66d9307-f5e0-4dca-be60-021eba27b3be")
+	)
+	(fp_line
+		(start -1.5 -3.2)
+		(end 1.5 -3.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7618dd65-7cd3-426f-87b3-dc582f549795")
+	)
+	(fp_line
+		(start -1.5 3.2)
+		(end 1.5 3.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6c455988-bf03-4ee6-aa56-fbde490bbae3")
+	)
+	(fp_line
+		(start 3.2 -1.5)
+		(end 3.2 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c3fa000-58fb-420f-b9ba-fbc9281a575d")
+	)
+	(fp_line
+		(start -3.6 -3.6)
+		(end 3.6 -3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a8fec97f-1755-4baa-b431-974dc46de193")
+	)
+	(fp_line
+		(start -3.6 3.6)
+		(end -3.6 -3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ca0dd567-f0bc-46f9-9143-d5530061c7f2")
+	)
+	(fp_line
+		(start 3.6 -3.6)
+		(end 3.6 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e832fc28-cc90-435d-a2ac-3eaff6327e42")
+	)
+	(fp_line
+		(start 3.6 3.6)
+		(end -3.6 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b915fd64-bfe9-4dff-9dc1-8d475b094504")
+	)
+	(fp_line
+		(start -3 -3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f7f8b16a-74ad-4707-9ce7-02c9f4dbe3f2")
+	)
+	(fp_text user "footprint origionally created for Amphenol outer hole dimention has been reduced"
+		(at 0 14.605 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(uuid "caf9c685-d8e8-4d88-8414-8c0d67593e47")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3.692 0)
+		(layer "F.Fab")
+		(uuid "8ed5e2dd-3832-4a7e-b973-960c8a81951e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e29fb0af-1a5f-4c36-8786-9bbddec1f7e9")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 -2.54)
+		(size 2 2)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ebe33388-3101-4d75-9516-7e3519de4523")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 2.54)
+		(size 2 2)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d89ec038-33ad-425d-87ed-42d797d209a1")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 -2.54)
+		(size 2 2)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ab91505b-c123-4124-958b-bef287ee8c16")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 2.54)
+		(size 2 2)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0458df53-5178-4ce1-9a20-a1ed6c4d6901")
+	)
+	(model "${KIPRJMOD}/OMiGaS_3D/SMB-vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)
