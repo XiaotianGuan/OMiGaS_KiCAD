@@ -1,3 +1,7 @@
 LIB/
-gerber/
+gerber/outdated/
 OMiGaS_Rev_3-backups/
+fp-info-cache
+*.bak
+*.kicad_sch-bak
+*.xml
