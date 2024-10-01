@@ -18182,6 +18182,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 165.1 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PMEG3010ER,115"
+			(at 165.1 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "414338b8-c519-4d63-afa8-c4d237e3aafd")
 		)
@@ -18327,6 +18345,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 170.18 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 170.18 257.81 0)
 			(effects
 				(font
@@ -18542,6 +18569,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 127 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 127 201.93 0)
 			(effects
 				(font
@@ -18768,6 +18804,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 27.94 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7e6f7d0-ae32-4b0c-892c-2c594e711e97")
 		)
@@ -18856,6 +18901,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" "COG dialectic"
+			(at 88.9 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C1608C0G2A103J080AC"
+			(at 88.9 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc15c876-e24f-4d7f-8ca1-250304207776")
 		)
@@ -18935,6 +18998,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 86.36 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 86.36 250.19 0)
 			(effects
 				(font
@@ -19390,6 +19462,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 336.55 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "61a91c60-9d42-4f29-b386-ecd49c623c64")
 		)
@@ -19553,6 +19634,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 193.04 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 193.04 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" " TC33X-2-104G"
 			(at 193.04 91.44 0)
 			(effects
 				(font
@@ -19751,6 +19850,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 374.65 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "3eb5239e-b803-4b6c-bdbe-63c61b07f690")
 		)
@@ -19857,6 +19965,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 38.1 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bfd94806-2f98-46a8-b19b-e591179d04e9")
 		)
@@ -19937,6 +20054,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 325.12 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 325.12 170.18 0)
 			(effects
 				(font
@@ -20098,6 +20224,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 134.62 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10d819de-6c60-4ea9-8c3a-8fabcabaa7a2")
 		)
@@ -20176,6 +20311,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 177.8 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 177.8 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2356AIDR"
 			(at 177.8 44.45 0)
 			(effects
 				(font
@@ -20551,6 +20704,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 82.55 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2356AIDR"
+			(at 82.55 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdd98b92-ce39-482b-96ac-eebed969b6ab")
 		)
@@ -20648,6 +20819,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 139.7 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 139.7 147.32 0)
 			(effects
 				(font
@@ -20809,6 +20989,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 201.93 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ec31a1b8-4497-4fa6-aa75-cb1e9f7afa60")
 		)
@@ -20960,6 +21149,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 226.06 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PMEG2005EJ-QX"
+			(at 226.06 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "281e3a56-c323-4d64-8801-56f8028f2a48")
 		)
@@ -21047,6 +21254,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 74.93 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f8f034c-bb96-45fd-b4a7-a233b1864655")
 		)
@@ -21126,6 +21342,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 90.17 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 90.17 111.76 0)
 			(effects
 				(font
@@ -21344,6 +21569,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 124.46 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 124.46 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2356AIDR"
 			(at 124.46 109.22 0)
 			(effects
 				(font
@@ -21641,6 +21884,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 135.89 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2bd9c5cd-ba7e-48d6-a2ff-996e1d22cb53")
 		)
@@ -21729,6 +21981,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 64.77 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4eba0f0-07c4-42f0-a53d-e8a9277fce54")
 		)
@@ -21806,6 +22067,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 373.38 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 373.38 119.38 0)
 			(effects
 				(font
@@ -22032,6 +22302,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 210.82 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "af0e06ac-6a63-423f-906e-3bdeda30d854")
 		)
@@ -22110,6 +22389,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 278.13 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 278.13 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "74LVC1G17GW,125"
 			(at 278.13 82.55 0)
 			(effects
 				(font
@@ -22281,6 +22578,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 217.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac729727-b46e-4a57-a888-b1e64687ed32")
 		)
@@ -22435,6 +22741,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 96.52 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa1ebec8-8540-4dc1-96cc-336bef7b12b9")
 		)
@@ -22514,6 +22829,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 271.78 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 271.78 143.51 0)
 			(effects
 				(font
@@ -22664,6 +22988,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 289.56 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 289.56 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2356AIDR"
 			(at 289.56 33.02 0)
 			(effects
 				(font
@@ -22842,6 +23184,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 19.05 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e13c44e-20f2-421b-8bba-1b2f5a4add32")
 		)
@@ -22920,6 +23271,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 48.26 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 48.26 262.89 0)
 			(effects
 				(font
@@ -23063,6 +23423,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 119.38 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 119.38 250.19 0)
 			(effects
 				(font
@@ -23265,6 +23634,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 367.03 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -23536,6 +23914,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 360.68 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "8a3aec27-63a1-43ee-9af2-a785e409dfc3")
 		)
@@ -23689,6 +24076,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 269.24 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 269.24 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" " T2N7002AK,LM"
 			(at 269.24 50.8 0)
 			(effects
 				(font
@@ -23918,6 +24323,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 394.97 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb78b2b8-f271-41c6-a493-8c59898b4c06")
 		)
@@ -24005,6 +24419,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 46.99 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7eff33a1-fb3b-4ec1-9f5e-1f4b574e4a95")
 		)
@@ -24082,6 +24505,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 248.92 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 248.92 30.48 0)
 			(effects
 				(font
@@ -24241,6 +24673,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 240.03 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PMEG2005EJ-QX"
+			(at 240.03 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0de1ceba-ff3e-4bc3-8ff6-a9b0fb1be57a")
 		)
@@ -24350,7 +24800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TPS22919DCKR"
+		(property "Manufacturer_Part_Number" " TPS22919DCKR"
 			(at 57.15 984.15 0)
 			(effects
 				(font
@@ -24370,6 +24820,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 35.56 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 35.56 189.23 0)
 			(effects
 				(font
@@ -24542,6 +25001,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 311.15 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "18742cfd-94f4-4850-aed2-8f1948275190")
 		)
@@ -24687,6 +25155,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 335.28 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 335.28 170.18 0)
 			(effects
 				(font
@@ -24845,6 +25322,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 267.97 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a1d40a14-0763-479a-bbe9-75ea263f6167")
 		)
@@ -24924,6 +25410,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 373.38 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 373.38 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ADS1015IDGSR"
 			(at 373.38 160.02 0)
 			(effects
 				(font
@@ -25237,6 +25741,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 233.68 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58f68749-7318-45bf-aba6-7af7dfec6a57")
 		)
@@ -25405,6 +25918,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 213.36 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2356AIDR"
+			(at 213.36 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fb4beff-f462-4fa0-b485-dd35845bebe0")
 		)
@@ -25502,6 +26033,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 38.1 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 38.1 39.37 0)
 			(effects
 				(font
@@ -25622,6 +26162,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 116.84 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2211646-bb0a-467a-bdad-544349ac624f")
 		)
@@ -25701,6 +26250,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 142.24 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 142.24 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" " TPSA475M010R1400"
 			(at 142.24 111.76 0)
 			(effects
 				(font
@@ -25795,6 +26362,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 105.41 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "87a35f24-1654-4c85-ac8f-338a23e8ecc6")
 		)
@@ -25875,6 +26451,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 240.03 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 240.03 252.73 0)
 			(effects
 				(font
@@ -26035,6 +26620,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 121.92 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e348203-a087-4605-80ce-bc0d62fa3dd7")
 		)
@@ -26114,6 +26708,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 64.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 64.77 147.32 0)
 			(effects
 				(font
@@ -26339,6 +26942,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 149.86 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2e1c496-3750-49b9-ab1e-576f2c633be1")
 		)
@@ -26491,6 +27103,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 172.72 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e2eeec8-7142-42bc-b4bf-321a3a36cd03")
 		)
@@ -26601,7 +27222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "M24C16-FMC6TG"
+		(property "Manufacturer_Part_Number" "M24C04-RMC6TG"
 			(at 119.888 47.244 0)
 			(effects
 				(font
@@ -26621,6 +27242,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 78.74 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 78.74 66.04 0)
 			(effects
 				(font
@@ -26727,6 +27357,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 177.8 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 177.8 22.86 0)
 			(effects
 				(font
@@ -27018,6 +27657,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 204.47 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" " T2N7002AK,LM"
+			(at 204.47 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85e75354-4051-4150-840c-65bc779457e6")
 		)
@@ -27098,6 +27755,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 121.92 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 121.92 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "NRS5024T2R2NMGJ"
 			(at 121.92 245.11 0)
 			(effects
 				(font
@@ -27250,6 +27925,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 368.3 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 368.3 204.47 0)
 			(effects
 				(font
@@ -27574,6 +28258,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 356.87 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "695b6667-457b-489b-8958-8dea420615d2")
 		)
@@ -27802,6 +28495,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 63.5 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10aac534-5fc6-45eb-9481-4e9e12b53167")
 		)
@@ -27955,6 +28657,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 355.6 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "82dbf873-b8c1-4db3-8d33-1bb0bacf733b")
 		)
@@ -28034,6 +28745,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 252.73 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 252.73 214.63 0)
 			(effects
 				(font
@@ -28167,6 +28887,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 127 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MICROFC-60035-SMT-TR"
+			(at 127 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef037686-e3e5-41ab-b242-5a7e0d5e41ab")
 		)
@@ -28253,6 +28991,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 260.35 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 260.35 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAX31329ELB+"
 			(at 260.35 250.19 0)
 			(effects
 				(font
@@ -28427,6 +29183,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 81.28 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 81.28 222.25 0)
 			(effects
 				(font
@@ -28653,6 +29418,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 356.87 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e73b66f-6e64-4cb2-8271-a882e37de015")
 		)
@@ -28806,6 +29580,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 121.92 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b22d478-9933-4c85-9821-4232da49e7bc")
 		)
@@ -28883,6 +29666,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 144.78 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 144.78 199.39 0)
 			(effects
 				(font
@@ -29109,6 +29901,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 93.98 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "911354f9-e084-4388-a61b-b29c39a16d8f")
 		)
@@ -29186,6 +29987,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 381 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 381 144.78 0)
 			(effects
 				(font
@@ -29339,6 +30149,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 160.02 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 160.02 262.89 0)
 			(effects
 				(font
@@ -29501,6 +30320,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 106.68 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f48ff7b5-ddef-40f4-90ba-89ffac80125d")
 		)
@@ -29580,6 +30408,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 36.83 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 36.83 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LM7705MMX/NOPB"
 			(at 36.83 144.78 0)
 			(effects
 				(font
@@ -29725,6 +30571,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 316.23 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "67fafc5e-565c-4cbc-9b5e-2e29f79a7e03")
 		)
@@ -29830,6 +30685,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 22.86 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88017a8c-349c-41bf-ad95-e956bd5682b0")
 		)
@@ -29917,6 +30781,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 99.06 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "379e931c-727f-406c-a31a-6eb1d2718139")
 		)
@@ -29994,6 +30867,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 293.37 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 293.37 82.55 0)
 			(effects
 				(font
@@ -30144,6 +31026,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 373.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 373.38 111.76 0)
 			(effects
 				(font
@@ -30304,6 +31195,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 201.93 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PMEG2005EJ-QX"
+			(at 201.93 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5f3a0595-2f7c-4b32-bfd7-b0a85d918e53")
 		)
@@ -30456,6 +31365,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 72.39 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "VLCF5020T-470MR40"
+			(at 72.39 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "87bf6e00-b782-455f-bcdd-9f22270f1ae2")
 		)
@@ -30565,7 +31492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TPS7A2045PDBVR"
+		(property "Manufacturer_Part_Number" " TPS7A2045PDBVR"
 			(at 196.85 1045.11 0)
 			(effects
 				(font
@@ -30585,6 +31512,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 175.26 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 175.26 250.19 0)
 			(effects
 				(font
@@ -30679,6 +31615,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 336.55 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 336.55 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SN74LVC3G17DCTRE4"
 			(at 336.55 195.58 0)
 			(effects
 				(font
@@ -30988,6 +31942,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 154.94 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3067801-13c1-4b10-8682-9bfed37dbaf0")
 		)
@@ -31068,6 +32031,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 271.78 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 271.78 35.56 0)
 			(effects
 				(font
@@ -31229,6 +32201,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 359.41 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dce9ca0d-1060-4eb8-89be-9819e9ad5042")
 		)
@@ -31348,6 +32329,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 337.82 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "efc60347-3c14-49bd-8382-1565950f7b75")
 		)
@@ -31454,6 +32444,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" "COG dialectic"
+			(at 78.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C1608C0G2A103J080AC"
+			(at 78.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e556cde-2e28-4074-ba0f-de34ce969d2c")
 		)
@@ -31533,6 +32541,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 345.44 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 345.44 170.18 0)
 			(effects
 				(font
@@ -31693,6 +32710,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 100.33 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" " TPSA475M010R1400"
+			(at 100.33 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d60b92a0-1ea8-4441-99e8-1cb695dedb40")
 		)
@@ -31843,6 +32878,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 177.8 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d6de8c8-7aaa-44c7-b045-7b02e82772d0")
 		)
@@ -31922,6 +32966,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 190.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 190.5 125.73 0)
 			(effects
 				(font
@@ -32276,6 +33329,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 299.72 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "150060AS75000"
+			(at 299.72 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08e48b25-5abf-46ff-ac1c-db73716e0b96")
 		)
@@ -32421,6 +33492,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 58.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 58.42 76.2 0)
 			(effects
 				(font
@@ -32582,6 +33662,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 115.57 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "3214W-1-104E"
+			(at 115.57 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7ca62de7-c8b1-44dd-b3d0-ca911e3d57ea")
 		)
@@ -32694,7 +33792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MAX16150BUT+T"
+		(property "Manufacturer_Part_Number" " MAX16150AUT+T"
 			(at 74.93 1037.49 0)
 			(effects
 				(font
@@ -32714,6 +33812,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 48.26 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 48.26 242.57 0)
 			(effects
 				(font
@@ -32888,6 +33995,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 27.94 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85908fab-ccf7-41d0-81b9-de508c9da213")
 		)
@@ -32974,6 +34090,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 227.33 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PMEG2005EJ-QX"
+			(at 227.33 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d1dd318c-e657-43c6-a901-d3c5d0fb9af4")
 		)
@@ -33036,6 +34170,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 331.47 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 331.47 21.59 0)
 			(effects
 				(font
@@ -33324,6 +34467,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 132.08 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb62c41b-9b0f-4cc5-90ea-c713c4f5aad0")
 		)
@@ -33477,6 +34629,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 384.81 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "11b94bec-9b18-4361-bad8-f41483bd5895")
 		)
@@ -33557,6 +34718,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 149.86 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 149.86 257.81 0)
 			(effects
 				(font
@@ -33650,6 +34820,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 81.28 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "954fc477-acd9-4b72-8277-687114973bc9")
 		)
@@ -33727,6 +34906,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TMP117MAIDRVR"
 			(at 30.48 66.04 0)
 			(effects
 				(font
@@ -33836,6 +35033,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 209.55 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c9944acd-610c-4209-89c8-922ec10ce76b")
 		)
@@ -33914,6 +35120,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 229.87 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 229.87 115.57 0)
 			(effects
 				(font
@@ -34142,6 +35357,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 73.66 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8aa8d10b-8ddf-4d73-973f-d63f8504147a")
 		)
@@ -34230,6 +35454,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 149.86 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aeb5efd3-80cb-47e8-a320-6b9c49b35c3d")
 		)
@@ -34310,6 +35543,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "COG dialectic"
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C1608C0G2A103J080AC"
 			(at 99.06 38.1 0)
 			(effects
 				(font
@@ -34461,6 +35712,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 212.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 212.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2356AIDR"
 			(at 212.09 88.9 0)
 			(effects
 				(font
@@ -34637,6 +35906,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 236.22 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84b9f1b1-fc7b-4ab2-9124-c13b8c52443b")
 		)
@@ -34746,7 +36024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "LT3462ES6#TRMPBF"
+		(property "Manufacturer_Part_Number" " LT3462ES6#TRMPBF"
 			(at 97.79 994.31 0)
 			(effects
 				(font
@@ -34766,6 +36044,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 73.66 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 73.66 199.39 0)
 			(effects
 				(font
@@ -34872,6 +36159,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 92.71 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" " V2PL45HM3/H"
+			(at 92.71 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa7ed101-71f6-407d-b951-f9692ced34b4")
 		)
@@ -34949,6 +36254,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 346.71 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 346.71 223.52 0)
 			(effects
 				(font
@@ -35046,6 +36360,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 262.89 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "Preferably film caps"
+			(at 262.89 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" " ECH-U1C102GX5"
 			(at 262.89 35.56 0)
 			(effects
 				(font
@@ -35207,6 +36539,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 139.7 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04a18b77-578e-42ba-93f2-650d5919f37d")
 		)
@@ -35284,6 +36625,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 250.19 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 250.19 88.9 0)
 			(effects
 				(font
@@ -35372,6 +36722,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 109.22 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "COG dialectic"
+			(at 109.22 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C1608C0G2A103J080AC"
 			(at 109.22 38.1 0)
 			(effects
 				(font
@@ -35534,6 +36902,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 246.38 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" " BAT-HLD-012-SMT"
+			(at 246.38 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41fecc48-3e1a-4aa4-9482-ae71c96b7c4b")
 		)
@@ -35621,6 +37007,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 242.57 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c5a929f-f35d-40f9-874a-ae1394ae7a19")
 		)
@@ -35700,6 +37095,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 46.99 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 46.99 133.35 0)
 			(effects
 				(font
@@ -35860,6 +37264,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 83.82 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "12c9ddf3-921d-4564-b79f-40c741affbfa")
 		)
@@ -36011,6 +37424,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 38.1 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "7bac7c08-0223-4649-957c-068fddc0c428")
 		)
@@ -36122,6 +37544,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 111.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LM7705MMX/NOPB"
+			(at 111.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8ba8a30-9b45-4895-a39f-e66d62aa5d55")
 		)
@@ -36217,6 +37657,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 205.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 205.74 50.8 0)
 			(effects
 				(font
