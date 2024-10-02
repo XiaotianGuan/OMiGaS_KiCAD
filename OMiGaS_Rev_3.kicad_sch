@@ -26041,7 +26041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comments" ""
+		(property "Comments" "Warning: This socket is NOT compatible with Molex 533091070, the snap height (actually weidth) is different"
 			(at 38.1 39.37 0)
 			(effects
 				(font
@@ -37424,7 +37424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comments" ""
+		(property "Comments" "Molex 524651070 compatible"
 			(at 38.1 111.76 0)
 			(effects
 				(font
