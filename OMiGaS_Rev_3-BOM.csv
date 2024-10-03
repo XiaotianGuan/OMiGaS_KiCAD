@@ -3,7 +3,7 @@
 "BT1","Battery_Cell","TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm","1","",""
 "BT2","Battery_Cell","Battery:BatteryHolder_LINX_BAT-HLD-012-SMT","1"," BAT-HLD-012-SMT",""
 "BZ1","Buzzer","OMiGaS:Buzzer-0905","1","",""
-"C1,C2,C3,C4","10n","Capacitor_SMD:C_0603_1608Metric","4","C1608C0G2A103J080AC","COG dialectic"
+"C1,C2,C3,C4","10n","Capacitor_SMD:C_0603_1608Metric","4","C1608C0G2A103J080AC","C0G dialectic"
 "C5,C6,C10,C11,C19,C21,C23,C26,C29,C32,C35,C40,C41,C42,C43,C44,C46,C47,C48,C49,C50,C52","100n","Capacitor_SMD:C_0603_1608Metric","22","",""
 "C7,C45","3p","Capacitor_SMD:C_0603_1608Metric","2","",""
 "C8","1n","Capacitor_SMD:C_0603_1608Metric","1"," ECH-U1C102GX5","Preferably film caps"

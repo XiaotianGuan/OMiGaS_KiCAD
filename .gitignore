@@ -6,3 +6,4 @@ fp-info-cache
 *.kicad_sch-bak
 *.xml
 *.lck
+sch/
