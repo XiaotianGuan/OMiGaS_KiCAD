@@ -37,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -49,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +63,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -395,11 +398,13 @@
 		(remove_unused_layers no)
 		(uuid "329c28e8-d11f-48ab-9423-a35fe4bff418")
 	)
-	(pad "25" smd circle
+	(pad "25" thru_hole circle
 		(at 16.51 1.27)
 		(size 1.524 1.524)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "0a3788c7-9271-4705-a9f6-894bf5ee8bf2")
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "948defa5-7f33-426c-93f8-ce67a32e6021")
 	)
 	(model "${KIPRJMOD}/OMiGaS_3D/SparkFun_ProMicro-RP2040-Red.step"
 		(offset
